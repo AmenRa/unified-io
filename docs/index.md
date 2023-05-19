@@ -63,9 +63,6 @@ data = read_csv('input.csv', callback=callback, generator=True)
 write_jsonl('output.jsonl', data)
 ```
 
-## 📚 Documentation
-Browse the [documentation](https://amenra.github.io/unified-io) for more details and examples.
-
 ## 🎁 Feature Requests
 Would you like to see other features implemented? Please, open a [feature request](https://github.com/AmenRa/unified-io/issues/new?assignees=&labels=enhancement&template=feature_request.md&title=%5BFeature+Request%5D+title).
 
